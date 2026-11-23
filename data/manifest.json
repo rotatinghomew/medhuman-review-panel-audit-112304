@@ -1,0 +1,72 @@
+{
+  "exam.csv": [
+    "id",
+    "student",
+    "cohort",
+    "script",
+    "actor",
+    "date",
+    "rubric",
+    "teacher"
+  ],
+  "rubric.csv": [
+    "edition",
+    "item",
+    "common_item",
+    "weight"
+  ],
+  "score.csv": [
+    "exam",
+    "rater",
+    "item",
+    "score",
+    "received",
+    "kind"
+  ],
+  "review_sample.csv": [
+    "id",
+    "exam",
+    "stratum",
+    "prob",
+    "stage",
+    "received",
+    "rater"
+  ],
+  "rater_role.csv": [
+    "exam",
+    "rater",
+    "process",
+    "note"
+  ],
+  "notice.csv": [
+    "id",
+    "exam",
+    "item",
+    "notice_state",
+    "date"
+  ],
+  "availability.csv": [
+    "rater",
+    "eligible_items",
+    "available",
+    "seen_exams",
+    "recuse_teachers",
+    "capacity"
+  ],
+  "risk_rule.csv": [
+    "cohort",
+    "item",
+    "max_bias",
+    "confidence",
+    "min_crossings",
+    "priority"
+  ],
+  "adjudication.csv": [
+    "exam",
+    "item",
+    "ordered_on",
+    "received",
+    "status",
+    "authorized_score"
+  ]
+}

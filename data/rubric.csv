@@ -1,0 +1,7 @@
+edition,item,common_item,weight
+R1,listen,listening,1
+R1,explain,clarity,1
+R1,respond,,1
+R2,listen,listening,1
+R2,explain,clarity,1
+R2,respond,,1

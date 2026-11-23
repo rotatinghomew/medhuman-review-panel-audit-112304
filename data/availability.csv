@@ -1,0 +1,6 @@
+rater,eligible_items,available,seen_exams,recuse_teachers,capacity
+K1,"listen,explain",2026-09-27,F071,T2,2
+K2,"listen,respond",2026-09-27,,T3,2
+K3,"explain,respond",2026-09-27,,T1,2
+K4,"listen,explain,respond",2026-09-28,F070,T2,1
+K5,explain,2026-09-28,,T2,1

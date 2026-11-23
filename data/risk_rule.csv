@@ -1,0 +1,6 @@
+cohort,item,max_bias,confidence,min_crossings,priority
+Y1,explain,6,0.95,4,2
+Y2,explain,5,0.95,4,1
+Y3,explain,5,0.95,4,1
+Y1,listen,7,0.95,3,2
+Y2,respond,6,0.95,3,2
