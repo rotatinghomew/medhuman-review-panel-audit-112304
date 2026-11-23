@@ -9,7 +9,7 @@
     "rubric",
     "teacher"
   ],
-  "rubric.csv": [
+  "score_scale.csv": [
     "edition",
     "item",
     "common_item",

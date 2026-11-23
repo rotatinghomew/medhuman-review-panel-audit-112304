@@ -4,7 +4,7 @@
 
 数据表使用 UTF-8 CSV，第一行是字段名。同一业务号的引用指数据字典约定的原始对象；空白表示来源未提供，集合字段由逗号分隔后整体按 CSV 转义。
 - `exam.csv` 的字段为 `id`、`student`、`cohort`、`script`、`actor`、`date`、`rubric`、`teacher`。
-- `rubric.csv` 的字段为 `edition`、`item`、`common_item`、`weight`。
+- `score_scale.csv` 的字段为 `edition`、`item`、`common_item`、`weight`。
 - `score.csv` 的字段为 `exam`、`rater`、`item`、`score`、`received`、`kind`。
 - `review_sample.csv` 的字段为 `id`、`exam`、`stratum`、`prob`、`stage`、`received`、`rater`。
 - `rater_role.csv` 的字段为 `exam`、`rater`、`process`、`note`。
